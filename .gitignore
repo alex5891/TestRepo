@@ -3,6 +3,10 @@
 *.lo
 *.o
 *.obj
+*.pdb
+*.tlog
+*.pch
+*/Repo.log
 
 # Compiled Dynamic libraries
 *.so
@@ -35,7 +39,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -69,3 +74,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.suo
+Repo/Repo/Release/Repo.log
+Repo/Repo/Release/Repo.lastbuildstate
+*.res
+*.unsuccessfulbuild
+*.sdf
+*.opensdf
