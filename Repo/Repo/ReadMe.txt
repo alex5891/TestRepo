@@ -45,7 +45,7 @@ res\Repo.rc2
     This file contains resources that are not edited by Microsoft
     Visual C++. You should place all resources not editable by
     the resource editor in this file.
-
+	
 /////////////////////////////////////////////////////////////////////////////
 
 For the main frame window:
@@ -129,3 +129,5 @@ For more information on both of these topics, please see the section on
 redistributing Visual C++ applications in MSDN documentation.
 
 /////////////////////////////////////////////////////////////////////////////
+
+Added description for code.
