@@ -82,3 +82,5 @@ Repo/Repo/Debug/
 *.unsuccessfulbuild
 *.sdf
 *.opensdf
+/Repo/.vs/Repo/v15/Browse.VC.opendb
+/Repo/.vs/Repo/v15/Browse.VC.db
